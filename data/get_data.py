@@ -1,6 +1,5 @@
 import subprocess
 
-# Names of all the datasets from ENCODE K562 cell line:
 motif_discovery_list = ['wgEncodeAwgTfbsBroadDnd41CtcfUniPk',
 'wgEncodeAwgTfbsBroadDnd41Ezh239875UniPk',
 'wgEncodeAwgTfbsBroadGm12878CtcfUniPk',
